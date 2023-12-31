@@ -27,6 +27,7 @@ function App() {
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
+        the name of my page is shanto
       </p>
     </>
   )
